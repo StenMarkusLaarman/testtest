@@ -5,6 +5,6 @@
 </head>
 <body>
     <h1>Hello there</h1>
-    <img src="https://example.com/starwars-meme.jpg" alt="Star Wars Meme">
+    <img src="https://i.imgur.com/AlcII4u.jpeg">
 </body>
 </html>
